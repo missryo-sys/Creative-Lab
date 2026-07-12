@@ -2,7 +2,6 @@
 An open-source playground for AI-powered hardware projects.
 🔮 Mystic Lab
 
-An open-source playground for AI-powered hardware projects.
 
 This repository documents my journey of turning creative ideas into real products using ESP32, AI, and embedded development. From interactive gadgets to AI companions, every project starts as an experiment and evolves through continuous learning and iteration.
 
